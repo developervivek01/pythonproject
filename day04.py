@@ -1,7 +1,0 @@
-num1 = int(input("Enter no 1 :"))
-num2 = int(input("Enter no 2 :"))
-print("ALL ANSWERS")
-print("ADDITION",num1+num2)
-print("SUBSTRACTION",num1-num2)
-print("MULTIPICATION",num1*num2)
-print("DIVISION",num1/num2)
